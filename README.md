@@ -1,35 +1,35 @@
-Hi there 👋  
+# Hi there 👋  
 
-🚀 Areas I have experience within ...  
+## 🚀 Areas I have experience within ...  
 
-🏆 WEB DEVELOPMENT 🏆 
+### 🏆 WEB DEVELOPMENT 🏆 
 
 HTML, CSS, JavaScript, React.js, DOM, Node.js, JavaScript, 
 C++, C , C# ASP.NET, MySQL   
 
-🖥️ Languages:
+## 🖥️ Languages:
 
-🏆 JavaScript
+-🏆 JavaScript
 
-🏆 Python
+-🏆 Python
 
-🏆 C#
+-🏆 C#
 
-🏆 C ++
+-🏆 C ++
 
-🏆 C
+-🏆 C
 
-🎨 Frontend:
+## 🎨 Frontend:
 
-🏆 HTML, CSS, jQuery
+-🏆 HTML, CSS, jQuery
 
-🏆 React.js
+-🏆 React.js
 
 ☕ Backend:
 
-🏆 .NET Core
+-🏆 .NET Core
 
-🏆 Node.js
+-🏆 Node.js
 
 
 - 📫 How to reach me:
