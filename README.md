@@ -33,7 +33,8 @@ C++, C , C# ASP.NET, MySQL
 
 
 - 📫 How to reach me:
-Online CV : 
+  
+Online CV : 🔗 (https://Nweder.github.io/WebDev/public/Cv.html)
 
 📧 Contact Email: m.neweder@gmail.com
 
