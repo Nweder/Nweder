@@ -21,7 +21,7 @@ C++, C , C# ASP.NET, MySQL
 
 ## 🎨 Frontend:
 
--🏆 HTML, CSS, jQuery
+-🏆 HTML, CSS
 
 -🏆 React.js
 
@@ -33,10 +33,11 @@ C++, C , C# ASP.NET, MySQL
 
 
 - 📫 How to reach me:
-  
-Online CV : 🔗 (https://Nweder.github.io/WebDev/public/Cv.html)
 
 📧 Contact Email: m.neweder@gmail.com
+Online CV : 🔗 (https://Nweder.github.io/WebDev/public/Cv.html)
+
+
 
 
 
