@@ -4,12 +4,9 @@
 
 ### 🏆 WEB DEVELOPMENT 🏆 
 
-HTML, CSS, JavaScript, React.js, DOM, Node.js, JavaScript, 
-C++, C , C# ASP.NET, MySQL   
+C# ASP.NET, C++, C , HTML, CSS, JavaScript, MySQL   
 
 ## 🖥️ Languages:
-
--🏆 JavaScript
 
 -🏆 Python
 
@@ -18,6 +15,8 @@ C++, C , C# ASP.NET, MySQL
 -🏆 C ++
 
 -🏆 C
+
+-🏆 JavaScript
 
 ## 🎨 Frontend:
 
