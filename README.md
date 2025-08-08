@@ -4,7 +4,7 @@
 
 ### 🏆 WEB DEVELOPMENT 🏆 
 
-C# ASP.NET, C++, C , HTML, CSS, JavaScript, MySQL   
+C# ASP.NET, C++, HTML, CSS, JavaScript, MySQL   
 
 ## 🖥️ Languages:
 
@@ -13,8 +13,6 @@ C# ASP.NET, C++, C , HTML, CSS, JavaScript, MySQL
 -🏆 C#
 
 -🏆 C ++
-
--🏆 C
 
 -🏆 JavaScript
 
