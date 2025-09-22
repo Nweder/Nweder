@@ -12,8 +12,6 @@ C# ASP.NET, C++, HTML, CSS, JavaScript, MySQL
 
 -🏆 C#
 
--🏆 C ++
-
 -🏆 JavaScript
 
 ## 🎨 Frontend:
